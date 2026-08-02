@@ -76,4 +76,4 @@ Innovative Junior Data Scientist combining technical expertise in machine learni
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@siyarkfl)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siyarkfl@gmail.com)
 
-📍 Istanbul, Turkey &nbsp;•&nbsp; 📞 +90 543 169 8041
+📍 Istanbul, Turkey &nbsp;•&nbsp; 
