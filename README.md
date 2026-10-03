@@ -41,7 +41,6 @@ An analytical and solution-oriented Data Scientist who transforms complex datase
 | :--- | :--- |
 | **🎓 Student Dropout Risk Early Warning System** | `Python`, `FastAPI`, `Streamlit`, `Scikit-learn` <br> An end-to-end predictive analytics application developed under the **Samsung Innovation Campus & UNDP** program. Predicts university student dropout risks and generates actionable, rule-based alerts for academic advisors regarding financial and housing vulnerabilities. *(Live)* |
 | **🏡 Short-Term Rental Market Analysis Dashboard** | `Python`, `Pandas`, `Dashboard` <br> Developed an interactive market analysis dashboard by mining and analyzing short-term rental listings (e.g., Airbnb) to provide comprehensive property and pricing insights. |
-| **🧠 Neuromarketing & Olfactory Atmosphere Management** | `Research`, `Data Analysis` <br> Authored an academic thesis investigating the impact of neuromarketing strategies and olfactory atmosphere management on consumer behavior and purchasing decisions. |
 | **✈️ Airline Flight Cancellations (EDA)** | `Pandas`, `Matplotlib`, `Seaborn` <br> Conducted exploratory data analysis on flight cancellation patterns, quantifying passenger impact and correlating cancellation causes with financial losses. |
 | **🦉 Duolingo Learning & Memory Retention Analysis** | `NumPy`, `Data Visualization` <br> Modeled vocabulary retention rates using the Ebbinghaus forgetting curve on large-scale Duolingo learning-trace data. (Findings published on Medium.) |
 
