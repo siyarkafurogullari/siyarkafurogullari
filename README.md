@@ -1,81 +1,174 @@
 <div align="center">
 
-# Hi, I'm Şiyar 👋
-**Junior Data Scientist** | **Management Information Systems (MIS) Graduate** | Istanbul, Turkey
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:0f4c75,100:00b4d8&height=210&section=header&text=%C5%9Eiyar%20Kafuro%C4%9Fullar%C4%B1&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Junior%20Data%20Scientist&descAlignY=58&descSize=20&animation=fadeIn" alt="header" width="100%"/>
 
-An analytical and solution-oriented Data Scientist who transforms complex datasets into scalable, high-impact business solutions using machine learning, database engineering, and generative AI. Passionate about creating data-driven products with a strong customer-centric focus, bringing a unique, multidisciplinary vision to projects by actively following the latest literature in prompt engineering and neuromarketing.
+<a href="https://github.com/siyarkafurogullari">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=00B4D8&center=true&vCenter=true&width=700&lines=Turning+messy+data+into+decisions;Python+%7C+SQL+%7C+Machine+Learning;From+raw+data+to+deployed+model+(FastAPI+%2B+Streamlit);Open+to+Junior+Data+Scientist+%26+Data+Analyst+roles" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siyarkfl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siyarkfl)
+[![Medium](https://img.shields.io/badge/Medium-@siyarkfl-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@siyarkfl)
+[![Email](https://img.shields.io/badge/Email-siyarkfl@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siyarkfl@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=siyarkafurogullari&label=Profile%20views&color=0f4c75&style=for-the-badge)
 
 </div>
 
 ---
 
-### 🔧 Skills & Technologies (Tech Stack)
+## 👋 About me
 
-**Programming & Data Management**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+I'm a **Junior Data Scientist** based in Istanbul with hands-on experience in **Python, SQL and machine learning**, built across **three internships** at Samsung & UNDP, DenizBank and Turkish Ground Services.
 
-**Artificial Intelligence & Machine Learning (AI/ML)**
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square)
-![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8A2BE2?style=flat-square)
+I like the full path of a data project: cleaning the data, understanding it, modeling it, and then **putting it in front of real users** as a working app. I graduated in **Management Information Systems** (Istanbul Gelisim University, 2026).
 
-**Analytics, Visualization & Cloud**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Languages:** 🇹🇷 Turkish (Native) · 🇬🇧 English (B2) · 🇩🇪 German (A1) · 🇷🇺 Russian (A1)
+- 🔭 Building end-to-end ML projects, from EDA to a deployed web app
+- 🧹 Passionate about data quality, ETL and clean SQL
+- 🎓 Recently: **IBM Bobathon (Agentic-AI)**, **British Airways Data Science Simulation (Forage)**
+- 🌍 Spent six weeks in Tunisia as an AIESEC volunteer, working in English with ~20 students from different countries
+- 🗣️ Turkish (native) · English (B2) · German (A2)
 
 ---
 
-### 🚀 Featured Projects & Analytical Work
+## 🚀 Featured projects
 
-| Project Name | Technologies & Description |
-| :--- | :--- |
-| **🎓 Student Dropout Risk Early Warning System** | `Python`, `FastAPI`, `Streamlit`, `Scikit-learn` <br> An end-to-end predictive analytics application developed under the **Samsung Innovation Campus & UNDP** program. Predicts university student dropout risks and generates actionable, rule-based alerts for academic advisors regarding financial and housing vulnerabilities. *(Live)* |
-| **🏡 Short-Term Rental Market Analysis Dashboard** | `Python`, `Pandas`, `Dashboard` <br> Developed an interactive market analysis dashboard by mining and analyzing short-term rental listings (e.g., Airbnb) to provide comprehensive property and pricing insights. |
-| **✈️ Airline Flight Cancellations (EDA)** | `Pandas`, `Matplotlib`, `Seaborn` <br> Conducted exploratory data analysis on flight cancellation patterns, quantifying passenger impact and correlating cancellation causes with financial losses. |
-| **🦉 Duolingo Learning & Memory Retention Analysis** | `NumPy`, `Data Visualization` <br> Modeled vocabulary retention rates using the Ebbinghaus forgetting curve on large-scale Duolingo learning-trace data. (Findings published on Medium.) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Student Dropout Early-Warning System
+*Samsung & UNDP Capstone*
+
+An end-to-end system that classifies students as **Dropout / Enrolled / Graduate** so at-risk students can be identified early.
+
+- Random Forest (300 trees) on **4,424 students** and **223 coded features**
+- Compared Random Forest, XGBoost and LightGBM
+- **0.88 macro ROC-AUC** on a held-out test set of 885 students
+- Deployed as a **FastAPI** service with a **Streamlit** interface
+- Strongest predictors: courses and grades approved in the second semester
+
+`Python` `Scikit-learn` `FastAPI` `Streamlit`
+
+[**View project →**](https://github.com/siyarkafurogullari/student-dropout-early-warning) <!-- TODO: replace with the real repo link -->
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 Airbnb Market Analysis Tool
+
+An interactive dashboard that compares short-term rental listings with competitors in the **top quartile**.
+
+- Interactive **Streamlit** dashboard built with Pandas and Plotly
+- Algorithm that flags **underperforming listings**
+- Estimates **potential annual revenue loss** per listing
+
+`Python` `Pandas` `Plotly` `Streamlit`
+
+[**View project →**](https://github.com/siyarkafurogullari/airbnb-market-analysis) <!-- TODO: replace with the real repo link -->
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ Middle East Airspace Flight Cancellations
+
+Exploratory data analysis on **2,200 flight cancellation records**.
+
+- Identified the most affected airlines and destinations
+- Analyzed cancellation causes
+- Visualized trends with Matplotlib and Seaborn
+
+`Python` `Pandas` `NumPy` `Seaborn`
+
+[**View project →**](https://github.com/siyarkafurogullari/middle-east-flight-cancellations) <!-- TODO: replace with the real repo link -->
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Writing & learning in public
+
+I share what I learn about SQL, Excel and data analysis on Medium and LinkedIn: common JOIN mistakes, lookup formulas, data cleaning habits.
+
+[**Read on Medium →**](https://medium.com/@siyarkfl)
+[**Follow on LinkedIn →**](https://linkedin.com/in/siyarkfl)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💼 Experience & Volunteering
+## 💼 Experience
 
-**Experience**
-- 🤖 **Samsung Innovation Campus & UNDP** — Artificial Intelligence in Marketing Training *(May 2026 – Present)*
-- 📊 **SoftITo** — Data Analytics Awareness and Machine Learning Training *(2025)*
-- 🏦 **DenizBank** — Faculty of Data Science and Artificial Intelligence Training *(2025)*
-- 🛠️ **UYUMSOFT** — Software Technical Support *(2025)*
-- 💻 **TNC Group** — Information Technology Intern *(2025)*
-- 🗄️ **TGS Ground Services** — Database Engineering Intern *(2024)* | *Optimized database performance, improving SQL Server retrieval speed by 35%.*
-
-**International Volunteering**
-- 🌍 **AIESEC Tunisia (Aug–Sep 2025):** Six-week international English teaching project enhancing cross-cultural communication, adaptability, and global teamwork skills.
+| When | Where | What I did |
+|---|---|---|
+| **Jul 2026 – Oct 2026** | **Samsung Electronics & UNDP**<br/>Data Science & AI in Marketing Intern | Designed and built a student dropout early-warning system on my own, from model comparison to a deployed FastAPI + Streamlit app (0.88 macro ROC-AUC). |
+| **Jun 2025 – Jul 2025** | **DenizBank** · Youth of the Future Program<br/>Data Science & AI Intern | EDA on customer credit-risk data, handled missing values and outliers, compared Random Forest and gradient boosting with accuracy, F1 and ROC-AUC, and tuned the best model. |
+| **Jul 2024 – Aug 2024** | **Turkish Ground Services (TGS)**<br/>Database Engineering Intern | Built ETL workflows merging **4 aviation data sources** into one database, cut load time from **~5 h to ~3 h** with MS SQL Server query optimization, and raised data integrity to **~95%** across **50,000+ records**. |
 
 ---
 
-### 🎓 Education & Certifications
+## 🛠️ Tech stack
 
-**Education**
-- 🎓 **B.Sc. in Management Information Systems** — Istanbul Gelisim University (Graduated: 2026)
+**Languages & data libraries**
 
-**Certifications**
-- 📜 Machine Learning Bootcamp: Next-Generation Project Camp — *Akbank (2025)*
-- 📜 Data Science and Python: From Beginner to Expert — *Udemy (2024)*
-- 📜 SQL (Advanced Level) — *HackerRank (2024)*
-- 📜 Database Querying with SQL — *Turkcell (2024)*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Machine learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02A676?style=for-the-badge&logoColor=white)
+
+**Visualization & apps**
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Databases & tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+<details>
+<summary><b>What I actually do with these</b></summary>
+
+<br/>
+
+| Area | Skills |
+|---|---|
+| **Data analysis** | Exploratory Data Analysis, data cleaning, data quality, ETL, data visualization |
+| **Machine learning** | Classification, predictive modeling, Random Forest, gradient boosting, feature engineering, hyperparameter tuning, model evaluation |
+| **SQL & databases** | Relational design, joins and subqueries, aggregation, query optimization (PostgreSQL, MS SQL Server) |
+| **Excel** | Pivot Tables, XLOOKUP, Power Query |
+
+</details>
 
 ---
 
-### 📫 Get in Touch
+## 🤝 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siyarkfl)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@siyarkfl)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:siyarkfl@gmail.com)
+I'm looking for **Junior Data Scientist / Data Analyst** opportunities. If you're working on something with real data, I'd be happy to talk.
+
+- 📫 **Email:** [siyarkfl@gmail.com](mailto:siyarkfl@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/siyarkfl](https://linkedin.com/in/siyarkfl)
+- ✍️ **Medium:** [medium.com/@siyarkfl](https://medium.com/@siyarkfl)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:0f4c75,100:00b4d8&height=110&section=footer" alt="footer" width="100%"/>
+
+</div>
