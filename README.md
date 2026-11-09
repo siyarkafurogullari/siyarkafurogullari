@@ -50,7 +50,7 @@ An end-to-end system that classifies students as **Dropout / Enrolled / Graduate
 
 `Python` `Scikit-learn` `FastAPI` `Streamlit`
 
-[**View project →**]([https://github.com/siyarkafurogullari/student-dropout-early-warning](https://github.com/siyarkafurogullari/Student-Dropout-Project))
+[**View project →**](https://github.com/siyarkafurogullari/Student-Dropout-Project)
 
 </td>
 <td width="50%" valign="top">
@@ -65,7 +65,7 @@ An interactive dashboard that compares short-term rental listings with competito
 
 `Python` `Pandas` `Plotly` `Streamlit`
 
-[**View project →**]([https://github.com/siyarkafurogullari/airbnb-market-analysis](https://github.com/siyarkafurogullari/Short-Term-Rental-Market-Analysis-Tool))
+[**View project →**](https://github.com/siyarkafurogullari/Short-Term-Rental-Market-Analysis-Tool)
 
 </td>
 </tr>
@@ -82,8 +82,7 @@ Exploratory data analysis on **2,200 flight cancellation records**.
 
 `Python` `Pandas` `NumPy` `Seaborn`
 
-[**View project →**]([https://github.com/siyarkafurogullari/middle-east-flight-cancellations](https://github.com/siyarkafurogullari/EDA-Flight-Analysis))
-
+[**View project →**](https://github.com/siyarkafurogullari/EDA-Flight-Analysis)
 </td>
 <td width="50%" valign="top">
 
